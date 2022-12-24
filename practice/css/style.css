@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-image:url(https://avatars.mds.yandex.net/i?id=da0ce28dfab507a2df0a4710c4960859-4461053-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+button{
+    color: red;
+}
+h1{
+    color: white;
+}

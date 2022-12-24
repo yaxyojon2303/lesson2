@@ -1,0 +1,17 @@
+body{
+    
+}
+h1{
+    text-align: center;
+}
+button{
+    color: crimson;
+    background-color: aqua;
+    
+}
+.at{
+    text-align: center;
+}
+.rak{
+    display: flex;
+}
